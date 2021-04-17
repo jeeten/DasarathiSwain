@@ -2,14 +2,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>DevCard - Bootstrap 4 vCard &amp; Portfolio Template For Developers</title>
+	<title>Dasarathi Swain - Python  Automation  Docker  Kubernetes  Open Source Engineer MVC as a architect</title>
 
 	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="DevCard Bootstrap 4 Template">
-	<meta name="author" content="Xiaoying Riley at Thinker Board">
+	<meta name="description" content="Dasarathi Swain - Python Automation Developer">
+	<meta name="author" content="Dasarathi Swain at Thinker Board">
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<!-- Google Fonts -->
@@ -30,7 +30,7 @@
 
 <header class="header text-center">
 	<div class="force-overflow">
-		<h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Dasarathi Swain</a></h1>
+		<h1 class="blog-name pt-lg-4 mb-0"><a href="index.php">Dasarathi Swain</a></h1>
 
 		<nav class="navbar navbar-expand-lg navbar-dark" >
 
@@ -55,38 +55,38 @@
 
 				<ul class="navbar-nav flex-column text-left">
 					<li class="nav-item active">
-						<a class="nav-link" href="index.html"><i class="fas fa-user fa-fw mr-2"></i>About Me<span class="sr-only">(current)</span></a>
+						<a class="nav-link" href="index.php"><i class="fas fa-user fa-fw mr-2"></i>About Me<span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="portfolio.html"><i class="fas fa-laptop-code fa-fw mr-2"></i>Portfolio</a>
+						<a class="nav-link" href="portfolio.php"><i class="fas fa-laptop-code fa-fw mr-2"></i>Portfolio</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="services.html"><i class="fas fa-briefcase fa-fw mr-2"></i>Services &amp; Pricing</a>
+						<a class="nav-link" href="services.php"><i class="fas fa-briefcase fa-fw mr-2"></i>Services &amp; Pricing</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="resume.html"><i class="fas fa-file-alt fa-fw mr-2"></i>Resume</a>
+						<a class="nav-link" href="resume.php"><i class="fas fa-file-alt fa-fw mr-2"></i>Resume</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="blog-home.html"><i class="fas fa-blog fa-fw mr-2"></i>Blog</a>
+						<a class="nav-link" href="blog-home.php"><i class="fas fa-blog fa-fw mr-2"></i>Blog</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="contact.html"><i class="fas fa-envelope-open-text fa-fw mr-2"></i>Contact</a>
+						<a class="nav-link" href="contact.php"><i class="fas fa-envelope-open-text fa-fw mr-2"></i>Contact</a>
 					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							<i class="fas fa-cogs fa-fw mr-2"></i>More Pages
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="project.html">Project Page</a>
-							<a class="dropdown-item" href="blog-home.html">Blog Home 1</a>
-							<a class="dropdown-item" href="blog-home-alt.html">Blog Home 2</a>
-							<a class="dropdown-item" href="blog-post.html">Blog Post</a>
+							<a class="dropdown-item" href="project.php">Project Page</a>
+							<a class="dropdown-item" href="blog-home.php">Blog Home 1</a>
+							<a class="dropdown-item" href="blog-home-alt.php">Blog Home 2</a>
+							<a class="dropdown-item" href="blog-post.php">Blog Post</a>
 						</div>
 					</li>
 				</ul>
 
 				<div class="my-2">
-					<a class="btn btn-primary" href="contact.html" target="_blank"><i class="fas fa-paper-plane mr-2"></i>Hire Me</a>
+					<a class="btn btn-primary" href="contact.php" target="_blank"><i class="fas fa-paper-plane mr-2"></i>Hire Me</a>
 				</div>
 
 
@@ -113,11 +113,11 @@
 				<div class="media-body">
 					<h2 class="name font-weight-bold mb-1">Dasarathi Swain</h2>
 					<div class="tagline mb-3">Senior Software Engineer</div>
-					<div class="bio mb-4">I'm a software engineer specialised in frontend and backend development for complex scalable web apps. I write about software development on <a class="link-on-bg" href="blog-home.html">my blog</a>. Want to know how I may help your project? Check out my project <a class="link-on-bg" href="projects.html">portfolio</a> and <a class="link-on-bg" href="resume.html">online resume</a>.
+					<div class="bio mb-4">I'm a software engineer specialised in frontend and backend development for complex scalable web apps. I write about software development on <a class="link-on-bg" href="blog-home.php">my blog</a>. Want to know how I may help your project? Check out my project <a class="link-on-bg" href="projects.php">portfolio</a> and <a class="link-on-bg" href="resume.php">online resume</a>.
 					</div><!--//bio-->
 					<div class="mb-4">
-						<a class="btn btn-primary mr-2 mb-3" href="portfolio.html"><i class="fas fa-arrow-alt-circle-right mr-2"></i><span class="d-none d-md-inline">View</span> Portfolio</a>
-						<a class="btn btn-secondary mb-3" href="resume.html"><i class="fas fa-file-alt mr-2"></i><span class="d-none d-md-inline">View</span> Resume</a>
+						<a class="btn btn-primary mr-2 mb-3" href="portfolio.php"><i class="fas fa-arrow-alt-circle-right mr-2"></i><span class="d-none d-md-inline">View</span> Portfolio</a>
+						<a class="btn btn-secondary mb-3" href="resume.php"><i class="fas fa-file-alt mr-2"></i><span class="d-none d-md-inline">View</span> Resume</a>
 					</div>
 				</div><!--//media-body-->
 				<img class="profile-image mb-3 mb-lg-0 ml-lg-5 mr-md-0" src="assets/images/profile-lg.jpg" alt="">
@@ -128,7 +128,7 @@
 	<section class="overview-section p-3 p-lg-5">
 		<div class="container">
 			<h2 class="section-title font-weight-bold mb-3">What I do</h2>
-			<div class="section-intro mb-5">I have more than 10 years' experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my <a href="resume.html">online resume</a> and <a href="portfolio.html">project portfolio</a>.</div>
+			<div class="section-intro mb-5">I have more than 10 years' experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my <a href="resume.php">online resume</a> and <a href="portfolio.php">project portfolio</a>.</div>
 			<div class="row">
 				<div class="item col-6 col-lg-3">
 					<div class="item-inner">
@@ -189,7 +189,7 @@
 					</div><!--//item-inner-->
 				</div><!--//item-->
 			</div><!--//row-->
-			<div class="text-center py-3"><a href="services.html" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>Services &amp; Pricing
+			<div class="text-center py-3"><a href="services.php" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>Services &amp; Pricing
 
 			</a></div>
 
@@ -342,16 +342,16 @@
 							</div>
 							<div class="col-lg-8">
 								<div class="card-body">
-									<h5 class="card-title"><a href="project.html" class="theme-link">Project Heading</a></h5>
+									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
 									<p class="card-text">Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
 									<p class="card-text"><small class="text-muted">Client: Google</small></p>
 								</div>
 							</div>
 						</div>
 						<div class="link-mask">
-							<a class="link-mask-link" href="project.html"></a>
+							<a class="link-mask-link" href="project.php"></a>
 							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.html">
+								<a class="btn btn-secondary" href="project.php">
 									<i class="fas fa-eye mr-2"></i>View Case Study
 								</a>
 							</div>
@@ -366,16 +366,16 @@
 							</div>
 							<div class="col-lg-8">
 								<div class="card-body">
-									<h5 class="card-title"><a href="project.html" class="theme-link">Project Heading</a></h5>
+									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
 									<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
 									<p class="card-text"><small class="text-muted">Client: Dropbox</small></p>
 								</div>
 							</div>
 						</div>
 						<div class="link-mask">
-							<a class="link-mask-link" href="project.html"></a>
+							<a class="link-mask-link" href="project.php"></a>
 							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.html">
+								<a class="btn btn-secondary" href="project.php">
 									<i class="fas fa-eye mr-2"></i>View Case Study
 								</a>
 							</div>
@@ -390,16 +390,16 @@
 							</div>
 							<div class="col-lg-8">
 								<div class="card-body">
-									<h5 class="card-title"><a href="project.html" class="theme-link">Project Heading</a></h5>
+									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
 									<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
 									<p class="card-text"><small class="text-muted">Client: Google</small></p>
 								</div>
 							</div>
 						</div>
 						<div class="link-mask">
-							<a class="link-mask-link" href="project.html"></a>
+							<a class="link-mask-link" href="project.php"></a>
 							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.html">
+								<a class="btn btn-secondary" href="project.php">
 									<i class="fas fa-eye mr-2"></i>View Case Study
 								</a>
 							</div>
@@ -414,16 +414,16 @@
 							</div>
 							<div class="col-lg-8">
 								<div class="card-body">
-									<h5 class="card-title"><a href="project.html" class="theme-link">Project Heading</a></h5>
+									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
 									<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
 									<p class="card-text"><small class="text-muted">Client: Uber</small></p>
 								</div>
 							</div>
 						</div>
 						<div class="link-mask">
-							<a class="link-mask-link" href="project.html"></a>
+							<a class="link-mask-link" href="project.php"></a>
 							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.html">
+								<a class="btn btn-secondary" href="project.php">
 									<i class="fas fa-eye mr-2"></i>View Case Study
 								</a>
 							</div>
@@ -431,7 +431,7 @@
 					</div><!--//card-->
 				</div><!--//col-->
 			</div><!--//row-->
-			<div class="text-center py-3"><a href="portfolio.html" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>View Portfolio</a></div>
+			<div class="text-center py-3"><a href="portfolio.php" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>View Portfolio</a></div>
 
 		</div><!--//container-->
 	</section><!--//featured-section-->
@@ -446,9 +446,9 @@
 					<div class="card blog-post-card">
 						<img class="card-img-top" src="assets/images/blog/blog-post-thumb-card-1.jpg" alt="image">
 						<div class="card-body">
-							<h5 class="card-title"><a class="theme-link" href="blog-post.html">Top 3 JavaScript Frameworks</a></h5>
+							<h5 class="card-title"><a class="theme-link" href="blog-post.php">Top 3 JavaScript Frameworks</a></h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-							<p class="mb-0"><a class="more-link" href="blog-post.html">Read more &rarr;</a></p>
+							<p class="mb-0"><a class="more-link" href="blog-post.php">Read more &rarr;</a></p>
 
 						</div>
 						<div class="card-footer">
@@ -460,9 +460,9 @@
 					<div class="card blog-post-card">
 						<img class="card-img-top" src="assets/images/blog/blog-post-thumb-card-2.jpg" alt="image">
 						<div class="card-body">
-							<h5 class="card-title"><a class="theme-link" href="blog-post.html">About Remote Working</a></h5>
+							<h5 class="card-title"><a class="theme-link" href="blog-post.php">About Remote Working</a></h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-							<p class="mb-0"><a class="more-link" href="blog-post.html">Read more &rarr;</a></p>
+							<p class="mb-0"><a class="more-link" href="blog-post.php">Read more &rarr;</a></p>
 						</div>
 						<div class="card-footer">
 							<small class="text-muted">Published a week ago</small>
@@ -474,9 +474,9 @@
 					<div class="card blog-post-card">
 						<img class="card-img-top" src="assets/images/blog/blog-post-thumb-card-3.jpg" alt="image">
 						<div class="card-body">
-							<h5 class="card-title"><a class="theme-link" href="blog-post.html">A Guide to Becoming a Full-Stack Developer</a></h5>
+							<h5 class="card-title"><a class="theme-link" href="blog-post.php">A Guide to Becoming a Full-Stack Developer</a></h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-							<p class="mb-0"><a class="more-link" href="blog-post.html">Read more &rarr;</a></p>
+							<p class="mb-0"><a class="more-link" href="blog-post.php">Read more &rarr;</a></p>
 						</div>
 						<div class="card-footer">
 							<small class="text-muted">Published 3 weeks ago</small>
@@ -484,7 +484,7 @@
 					</div><!--//card-->
 				</div><!--//col-->
 			</div><!--//row-->
-			<div class="text-center py-3"><a href="blog-home.html" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>View Blog</a></div>
+			<div class="text-center py-3"><a href="blog-home.php" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>View Blog</a></div>
 		</div><!--//container-->
 
 	</section><!--//latest-blog-section-->

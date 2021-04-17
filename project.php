@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
-    <title>DevCard - Bootstrap 4 vCard &amp; Portfolio Template For Developers</title>
+    <title>Dasarathi Swain - Python  Automation  Docker  Kubernetes  Open Source Engineer MVC as a architect</title>
     
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="DevCard Bootstrap 4 Template">
-    <meta name="author" content="Xiaoying Riley at Thinker Board">
+    <meta name="description" content="Dasarathi Swain - Python Automation Developer">
+    <meta name="author" content="Dasarathi Swain at Thinker Board">
     <link rel="shortcut icon" href="favicon.ico"> 
     
     <!-- Google Fonts -->
@@ -26,7 +26,7 @@
     
     <header class="header text-center">	    
 		<div class="force-overflow">
-			<h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Dasarathi Swain</a></h1>
+			<h1 class="blog-name pt-lg-4 mb-0"><a href="index.php">Dasarathi Swain</a></h1>
 			
 			<nav class="navbar navbar-expand-lg navbar-dark" >
 				
@@ -51,38 +51,38 @@
 					
 					<ul class="navbar-nav flex-column text-left">
 						<li class="nav-item">
-							<a class="nav-link" href="index.html"><i class="fas fa-user fa-fw mr-2"></i>About Me</a>
+							<a class="nav-link" href="index.php"><i class="fas fa-user fa-fw mr-2"></i>About Me</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="portfolio.html"><i class="fas fa-laptop-code fa-fw mr-2"></i>Portfolio</a>
+							<a class="nav-link" href="portfolio.php"><i class="fas fa-laptop-code fa-fw mr-2"></i>Portfolio</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="services.html"><i class="fas fa-briefcase fa-fw mr-2"></i>Services &amp; Pricing</a>
+							<a class="nav-link" href="services.php"><i class="fas fa-briefcase fa-fw mr-2"></i>Services &amp; Pricing</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="resume.html"><i class="fas fa-file-alt fa-fw mr-2"></i>Resume</a>
+							<a class="nav-link" href="resume.php"><i class="fas fa-file-alt fa-fw mr-2"></i>Resume</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="blog-home.html"><i class="fas fa-blog fa-fw mr-2"></i>Blog</a>
+							<a class="nav-link" href="blog-home.php"><i class="fas fa-blog fa-fw mr-2"></i>Blog</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html"><i class="fas fa-envelope-open-text fa-fw mr-2"></i>Contact</a>
+							<a class="nav-link" href="contact.php"><i class="fas fa-envelope-open-text fa-fw mr-2"></i>Contact</a>
 						</li>
 						<li class="nav-item dropdown active">
 							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								<i class="fas fa-cogs fa-fw mr-2"></i>More Pages
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item active" href="project.html">Project Page<span class="sr-only">(current)</span></a>
-								<a class="dropdown-item" href="blog-home.html">Blog Home 1</a>
-								<a class="dropdown-item" href="blog-home-alt.html">Blog Home 2</a>
-								<a class="dropdown-item" href="blog-post.html">Blog Post</a>
+								<a class="dropdown-item active" href="project.php">Project Page<span class="sr-only">(current)</span></a>
+								<a class="dropdown-item" href="blog-home.php">Blog Home 1</a>
+								<a class="dropdown-item" href="blog-home-alt.php">Blog Home 2</a>
+								<a class="dropdown-item" href="blog-post.php">Blog Post</a>
 							</div>
 						</li>
 					</ul>
 					
 					<div class="my-2">
-						<a class="btn btn-primary" href="contact.html" target="_blank"><i class="fas fa-paper-plane mr-2"></i>Hire Me</a>
+						<a class="btn btn-primary" href="contact.php" target="_blank"><i class="fas fa-paper-plane mr-2"></i>Hire Me</a>
 					</div>
 					
 	
@@ -228,7 +228,7 @@
 		    <div class="container single-col-max-width">
 			    <h2 class="title">Want me to help with your project?</h2>
 			    <p>If you take on freelance work, you can use this section to prompt any potential clients to get in touch with you with their project requirements.</p>
-                <div class="text-center"><a class="btn btn-primary" href="contact.html" target="_blank"><i class="fas fa-paper-plane mr-2"></i>Hire Me</a></div>
+                <div class="text-center"><a class="btn btn-primary" href="contact.php" target="_blank"><i class="fas fa-paper-plane mr-2"></i>Hire Me</a></div>
 		    </div><!--//container-->
 	    </section><!--//promo-section-->
 	    

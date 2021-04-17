@@ -10,7 +10,7 @@ Blogging is a great way for developers to share their ideas and promote their wo
 
 ## Author & License
 
-This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/dasarathis) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
+This Bootstrap template is made by UX/UI designer [Dasarathi Swain](https://twitter.com/dasarathis) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
 
 If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](http://www.dasarathiswain.in/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/)
