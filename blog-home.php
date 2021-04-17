@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="DevCard Bootstrap 4 Template">
-    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <meta name="author" content="Xiaoying Riley at Thinker Board">
     <link rel="shortcut icon" href="favicon.ico"> 
     
     <!-- Google Fonts -->
@@ -208,7 +208,7 @@
 	    </section>
 	    
 	    <footer class="footer text-center py-4">
-			<small class="copyright">Template Copyright &copy; <a href="https://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>
+			<small class="copyright">Template Copyright &copy; <a href="http://www.dasarathiswain.in/" target="_blank">Thinker Board</a></small>
 		</footer>
     
     </div><!--//main-wrapper-->

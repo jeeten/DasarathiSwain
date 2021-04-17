@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Blog Template">
-    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <meta name="author" content="Xiaoying Riley at Thinker Board">
     <link rel="shortcut icon" href="favicon.ico"> 
     
     <!-- FontAwesome JS-->
@@ -58,7 +58,7 @@
 				</ul>
 				
 				<div class="my-2 my-md-3">
-				    <a class="btn btn-primary" href="https://themes.3rdwavemedia.com/" target="_blank">Get in Touch</a>
+				    <a class="btn btn-primary" href="http://www.dasarathiswain.in/" target="_blank">Get in Touch</a>
 				</div>
 			</div>
 		</nav>

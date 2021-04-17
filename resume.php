@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="DevCard Bootstrap 4 Template">
-	<meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+	<meta name="author" content="Xiaoying Riley at Thinker Board">
 	<link rel="shortcut icon" href="favicon.ico"> 
 	
 	<!-- Google Fonts -->
@@ -103,7 +103,7 @@
 		<section class="cta-section theme-bg-light py-5">
 			<div class="container text-center single-col-max-width">
 				<h2 class="heading mb-3">Online Resume</h2>
-				<a class="btn btn-primary" href="https://themes.3rdwavemedia.com/resources/sketch-template/resume-sketch-sketch-resume-template-for-software-developers/" target="_blank"><i class="fas fa-file-pdf mr-2"></i>Download PDF Version</a>
+				<a class="btn btn-primary" href="http://www.dasarathiswain.in/" target="_blank"><i class="fas fa-file-pdf mr-2"></i>Download PDF Version</a>
 				
 				
 			</div><!--//container-->
@@ -119,9 +119,9 @@
 						</div><!--//resume-title-->
 						<div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
 							<ul class="list-unstyled mb-0">
-								<li class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg mr-2 "></i><a class="resume-link" href="tel:#">0123 4567 890</a></li>
-								<li class="mb-2"><i class="fas fa-envelope-square fa-fw fa-lg mr-2"></i><a class="resume-link" href="mailto:#">simon.doe@yourwebsite.com</a></li>
-								<li class="mb-2"><i class="fas fa-globe fa-fw fa-lg mr-2"></i><a class="resume-link" href="#">www.yourwebsite.com</a></li>
+								<li class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg mr-2 "></i><a class="resume-link" href="tel:#">9930335502</a></li>
+								<li class="mb-2"><i class="fas fa-envelope-square fa-fw fa-lg mr-2"></i><a class="resume-link" href="mailto:#">dasarathiswain@hotmail.com</a></li>
+								<li class="mb-2"><i class="fas fa-globe fa-fw fa-lg mr-2"></i><a class="resume-link" href="http://www.dasarathiswain.in/">www.dasarathiswain.in</a></li>
 								<li class="mb-0"><i class="fas fa-map-marker-alt fa-fw fa-lg mr-2"></i>New York</li>
 							</ul>
 						</div><!--//resume-contact-->
@@ -133,7 +133,7 @@
 					<div class="media flex-column flex-md-row align-items-center">
 						<img class="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto" src="assets/images/resume-profile.png" alt="image">
 						<div class="media-body text-left">
-							<p class="mb-0">Summarise your career here. <a class="theme-link" href="https://themes.3rdwavemedia.com/resources/sketch-template/resume-sketch-sketch-resume-template-for-software-developers/" target="_blank">You can make a PDF version of your resume using our free Sketch template here</a>. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. </p>
+							<p class="mb-0">Summarise your career here. <a class="theme-link" href="http://www.dasarathiswain.in/" target="_blank">You can make a PDF version of your resume using our free Sketch template here</a>. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. </p>
 						</div><!--//media-body-->
 					</div>
 				</div><!--//resume-intro-->
@@ -340,7 +340,7 @@
 				</div><!--//container-->
 				
 				<footer class="footer text-center py-4">
-					<small class="copyright">Template Copyright &copy; <a href="https://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>
+					<small class="copyright">Template Copyright &copy; <a href="http://www.dasarathiswain.in/" target="_blank">Thinker Board</a></small>
 				</footer>
 				
 			</div><!--//main-wrapper-->

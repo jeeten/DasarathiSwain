@@ -9,7 +9,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="DevCard Bootstrap 4 Template">
-	<meta name="author" content="Xiaoying Riley at 3rd Wave Media">
+	<meta name="author" content="Xiaoying Riley at Thinker Board">
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<!-- Google Fonts -->
@@ -111,7 +111,7 @@
 			<div class="profile-teaser media flex-column flex-lg-row">
 
 				<div class="media-body">
-					<h2 class="name font-weight-bold mb-1">Simon Doe</h2>
+					<h2 class="name font-weight-bold mb-1">Dasarathi Swain</h2>
 					<div class="tagline mb-3">Senior Software Engineer</div>
 					<div class="bio mb-4">I'm a software engineer specialised in frontend and backend development for complex scalable web apps. I write about software development on <a class="link-on-bg" href="blog-home.html">my blog</a>. Want to know how I may help your project? Check out my project <a class="link-on-bg" href="projects.html">portfolio</a> and <a class="link-on-bg" href="resume.html">online resume</a>.
 					</div><!--//bio-->
@@ -490,7 +490,7 @@
 	</section><!--//latest-blog-section-->
 
 	<footer class="footer text-center py-4">
-		<small class="copyright">Template Copyright &copy; <a href="https://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>
+		<small class="copyright">Template Copyright &copy; <a href="http://www.dasarathiswain.in/" target="_blank">Thinker Board</a></small>
 	</footer>
 
 </div><!--//main-wrapper-->
