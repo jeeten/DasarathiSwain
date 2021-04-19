@@ -264,36 +264,21 @@ export  $initHighlight;
 		    </div><!--//container-->
 	    </section><!--//promo-section-->
 
-	     <footer class="footer text-center py-4">
-			<small class="copyright">Template Copyright &copy; <a href="http://www.dasarathiswain.in/" target="_blank">Thinker Board</a></small>
-		</footer>
+	    
+		<footer class="footer text-center py-4">
+		<?php include_once 'include/footer.php' ?>
+	</footer>
 
-    </div><!--//main-wrapper-->
+</div><!--//main-wrapper-->
 
+	<?php include_once 'include/html_footer.php' ?>
+	<!-- Page Specific JS -->
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.14.2/highlight.min.js"></script>
 
-
-
-
-
-    <!-- Javascript -->
-    <script src="assets/plugins/jquery-3.4.1.min.js"></script>
-    <script src="assets/plugins/popper.min.js"></script>
-    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Page Specific JS -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.14.2/highlight.min.js"></script>
-
-    <!-- Custom JS -->
-    <script src="assets/js/blog.js"></script>
-
-    <!-- Dark Mode -->
-	<script src="assets/plugins/js-cookie.min.js"></script>
-	<script src="assets/js/dark-mode.js"></script>
-    
-    <!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
-    <script src="assets/js/demo/style-switcher.js"></script>     
-    
+	<!-- Custom JS -->
+	<script src="assets/js/blog.js"></script>
 
 </body>
-</html> 
+</html>
+
 
