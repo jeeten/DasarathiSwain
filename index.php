@@ -2,197 +2,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Dasarathi Swain - Python  Automation  Docker  Kubernetes  Open Source Engineer MVC as a architect</title>
-
-	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Dasarathi Swain - Python Automation Developer">
-	<meta name="author" content="Dasarathi Swain at Thinker Board">
-	<link rel="shortcut icon" href="favicon.ico">
-
-	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-
-	<!-- FontAwesome JS -->
-	<script defer src="assets/fontawesome/js/all.js"></script>
-
-	<!-- Plugin CSS -->
-	<link rel="stylesheet" href="assets/plugins/tiny-slider/tiny-slider.css">
-
-	<!-- Theme CSS -->
-	<link id="theme-style" rel="stylesheet" href="assets/css/theme-1.css">
-
-</head>
+	<?php include_once "include/html_head.php" ?>
+</head>	
 
 <body>
-
 <header class="header text-center">
-	<div class="force-overflow">
-		<h1 class="blog-name pt-lg-4 mb-0"><a href="index.php">Dasarathi Swain</a></h1>
-
-		<nav class="navbar navbar-expand-lg navbar-dark" >
-
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-
-			<div id="navigation" class="collapse navbar-collapse flex-column" >
-				<div class="profile-section pt-3 pt-lg-0">
-					<img class="profile-image mb-3 rounded-circle mx-auto" src="assets/images/profile.png" alt="image" >
-
-					<div class="bio mb-3">Hi, my name is Dasarathi Swain and I'm a senior software engineer. Welcome to my personal website!</div><!--//bio-->
-					<ul class="social-list list-inline py-2 mx-auto">
-						<li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-github-alt fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
-					</ul><!--//social-list-->
-					<hr>
-				</div><!--//profile-section-->
-
-				<ul class="navbar-nav flex-column text-left">
-					<li class="nav-item active">
-						<a class="nav-link" href="index.php"><i class="fas fa-user fa-fw mr-2"></i>About Me<span class="sr-only">(current)</span></a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="portfolio.php"><i class="fas fa-laptop-code fa-fw mr-2"></i>Portfolio</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="services.php"><i class="fas fa-briefcase fa-fw mr-2"></i>Services &amp; Pricing</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="resume.php"><i class="fas fa-file-alt fa-fw mr-2"></i>Resume</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="blog-home.php"><i class="fas fa-blog fa-fw mr-2"></i>Blog</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="contact.php"><i class="fas fa-envelope-open-text fa-fw mr-2"></i>Contact</a>
-					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<i class="fas fa-cogs fa-fw mr-2"></i>More Pages
-						</a>
-						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="project.php">Project Page</a>
-							<a class="dropdown-item" href="blog-home.php">Blog Home 1</a>
-							<a class="dropdown-item" href="blog-home-alt.php">Blog Home 2</a>
-							<a class="dropdown-item" href="blog-post.php">Blog Post</a>
-						</div>
-					</li>
-				</ul>
-
-				<div class="my-2">
-					<a class="btn btn-primary" href="contact.php" target="_blank"><i class="fas fa-paper-plane mr-2"></i>Hire Me</a>
-				</div>
-
-
-				<div class="dark-mode-toggle text-center w-100">
-					<hr class="mb-4">
-					<h4 class="toggle-name mb-3 "><i class="fas fa-adjust mr-1"></i>Dark Mode</h4>
-
-					<input class="toggle" id="darkmode" type="checkbox">
-					<label class="toggle-btn mx-auto mb-0" for="darkmode"></label>
-
-				</div><!--//dark-mode-toggle-->
-
-			</div>
-		</nav>
-	</div><!--//force-overflow-->
+	<?php include_once "include/header.php" ?>
 </header>
-
 <div class="main-wrapper">
 
 	<section class="about-me-section p-3 p-lg-5 theme-bg-light">
 		<div class="container">
-			<div class="profile-teaser media flex-column flex-lg-row">
-
-				<div class="media-body">
-					<h2 class="name font-weight-bold mb-1">Dasarathi Swain</h2>
-					<div class="tagline mb-3">Senior Software Engineer</div>
-					<div class="bio mb-4">I'm a software engineer specialised in frontend and backend development for complex scalable web apps. I write about software development on <a class="link-on-bg" href="blog-home.php">my blog</a>. Want to know how I may help your project? Check out my project <a class="link-on-bg" href="projects.php">portfolio</a> and <a class="link-on-bg" href="resume.php">online resume</a>.
-					</div><!--//bio-->
-					<div class="mb-4">
-						<a class="btn btn-primary mr-2 mb-3" href="portfolio.php"><i class="fas fa-arrow-alt-circle-right mr-2"></i><span class="d-none d-md-inline">View</span> Portfolio</a>
-						<a class="btn btn-secondary mb-3" href="resume.php"><i class="fas fa-file-alt mr-2"></i><span class="d-none d-md-inline">View</span> Resume</a>
-					</div>
-				</div><!--//media-body-->
-				<img class="profile-image mb-3 mb-lg-0 ml-lg-5 mr-md-0" src="assets/images/profile-lg.jpg" alt="">
-			</div>
+			<?php include_once 'include/sections/about.php' ?>
 		</div>
 	</section><!--//about-me-section-->
 
 	<section class="overview-section p-3 p-lg-5">
 		<div class="container">
-			<h2 class="section-title font-weight-bold mb-3">What I do</h2>
-			<div class="section-intro mb-5">I have more than 10 years' experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my <a href="resume.php">online resume</a> and <a href="portfolio.php">project portfolio</a>.</div>
-			<div class="row">
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-js-square"></i></div>
-						<h3 class="item-title">Vanilla JavaScript</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.</div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-angular mr-2"></i><i class="fab fa-react mr-2"></i><i class="fab fa-vuejs"></i></div>
-						<h3 class="item-title">Angular, React &amp;  Vue</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.  </div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-node-js"></i></div>
-						<h3 class="item-title">Node.js</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.  </div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-python"></i></div>
-						<h3 class="item-title">Python &amp; Django</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.  </div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-php"></i></div>
-						<h3 class="item-title">PHP</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.  </div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-npm mr-2"></i><i class="fab fa-gulp mr-2"></i><i class="fab fa-grunt"></i></div>
-						<h3 class="item-title">npm, Gulp &amp; Grunt</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.  </div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-html5 mr-2"></i><i class="fab fa-css3-alt"></i></div>
-						<h3 class="item-title">HTML &amp; CSS</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.  </div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-				<div class="item col-6 col-lg-3">
-					<div class="item-inner">
-						<div class="item-icon"><i class="fab fa-sass mr-2"></i><i class="fab fa-less"></i></div>
-						<h3 class="item-title">Sass &amp; LESS</h3>
-						<div class="item-desc">List skills/technologies here. You can change the icon above to any of the 1500+ <a class="theme-link" href="https://fontawesome.com/" target="_blank">FontAwesome 5 free icons</a> available. Aenean commodo ligula eget dolor.  </div>
-					</div><!--//item-inner-->
-				</div><!--//item-->
-			</div><!--//row-->
-			<div class="text-center py-3"><a href="services.php" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>Services &amp; Pricing
-
-			</a></div>
-
+			<?php include_once 'include/sections/overview.php' ?>
 		</div><!--//container-->
 	</section>
 
@@ -200,131 +27,7 @@
 
 	<section class="testimonials-section p-3 p-lg-5">
 		<div class="container">
-			<h2 class="section-title font-weight-bold mb-5">Testimonials</h2>
-
-			<div class="testiomonial-carousel-container">
-				<div class="testimonial-carousel  tiny-slider">
-					<div class="item">
-						<div class="item-inner">
-							<div class="quote-holder">
-								<blockquote class="quote-content">
-									Simon is a brilliant software engineer! Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.
-								</blockquote>
-								<i class="fas fa-quote-left"></i>
-							</div><!--//quote-holder-->
-							<div class="source-holder">
-								<div class="source-profile">
-									<img src="assets/images/clients/profile-1.png" alt="image"/>
-								</div>
-								<div class="meta">
-									<div class="name">Brandon James</div>
-									<div class="info">Project Manager, Google</div>
-								</div>
-							</div>
-						</div><!--//item-inner-->
-					</div><!--//item-->
-
-					<div class="item">
-						<div class="item-inner">
-							<div class="quote-holder">
-								<blockquote class="quote-content">
-									Simon is a brilliant software engineer! Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.
-								</blockquote>
-								<i class="fas fa-quote-left"></i>
-							</div><!--//quote-holder-->
-							<div class="source-holder">
-								<div class="source-profile">
-									<img src="assets/images/clients/profile-2.png" alt="image"/>
-								</div>
-								<div class="meta">
-									<div class="name">Kate Sanders</div>
-									<div class="info">Project Manager, Uber</div>
-								</div>
-							</div>
-						</div><!--//item-inner-->
-					</div><!--//item-->
-
-					<div class="item">
-						<div class="item-inner">
-							<div class="quote-holder">
-								<blockquote class="quote-content">
-									Simon is a brilliant software engineer! Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.
-								</blockquote>
-								<i class="fas fa-quote-left"></i>
-							</div><!--//quote-holder-->
-							<div class="source-holder">
-								<div class="source-profile">
-									<img src="assets/images/clients/profile-3.png" alt="image"/>
-								</div>
-								<div class="meta">
-									<div class="name">James Lee</div>
-									<div class="info">Product Manager, Amazon</div>
-								</div>
-							</div>
-						</div><!--//item-inner-->
-					</div><!--//item-->
-
-					<div class="item">
-						<div class="item-inner">
-							<div class="quote-holder">
-								<blockquote class="quote-content">
-									Simon is a brilliant software engineer! Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.
-								</blockquote>
-								<i class="fas fa-quote-left"></i>
-							</div><!--//quote-holder-->
-							<div class="source-holder">
-								<div class="source-profile">
-									<img src="assets/images/clients/profile-4.png" alt="image"/>
-								</div>
-								<div class="meta">
-									<div class="name">James Lee</div>
-									<div class="info">Product Manager, Amazon</div>
-								</div>
-							</div>
-						</div><!--//item-inner-->
-					</div><!--//item-->
-
-					<div class="item">
-						<div class="item-inner">
-							<div class="quote-holder">
-								<blockquote class="quote-content">
-									Simon is a brilliant software engineer! Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.
-								</blockquote>
-								<i class="fas fa-quote-left"></i>
-							</div><!--//quote-holder-->
-							<div class="source-holder">
-								<div class="source-profile">
-									<img src="assets/images/clients/profile-5.png" alt="image"/>
-								</div>
-								<div class="meta">
-									<div class="name">Olivia White</div>
-									<div class="info">Product Manager, Dropbox</div>
-								</div>
-							</div>
-						</div><!--//item-inner-->
-					</div><!--//item-->
-
-					<div class="item">
-						<div class="item-inner">
-							<div class="quote-holder">
-								<blockquote class="quote-content">
-									Simon is a brilliant software engineer! Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.
-								</blockquote>
-								<i class="fas fa-quote-left"></i>
-							</div><!--//quote-holder-->
-							<div class="source-holder">
-								<div class="source-profile">
-									<img src="assets/images/clients/profile-6.png" alt="image"/>
-								</div>
-								<div class="meta">
-									<div class="name">Samuel Reyes</div>
-									<div class="info">CTO, StartupHub</div>
-								</div>
-							</div>
-						</div><!--//item-inner-->
-					</div><!--//item-->
-				</div><!--//testimonial-carousel-->
-			</div><!--//testimonial-carousel-container-->
+			<?php include_once 'include/sections/testimonials.php' ?>	
 		</div><!--//container-->
 	</section><!--//testimonials-section-->
 
@@ -332,106 +35,7 @@
 
 	<section class="featured-section p-3 p-lg-5">
 		<div class="container">
-			<h2 class="section-title font-weight-bold mb-5">Featured Projects</h2>
-			<div class="row">
-				<div class="col-md-6 mb-5">
-					<div class="card project-card">
-						<div class="row no-gutters">
-							<div class="col-lg-4 card-img-holder">
-								<img src="assets/images/project/project-1.jpg" class="card-img" alt="image">
-							</div>
-							<div class="col-lg-8">
-								<div class="card-body">
-									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
-									<p class="card-text">Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
-									<p class="card-text"><small class="text-muted">Client: Google</small></p>
-								</div>
-							</div>
-						</div>
-						<div class="link-mask">
-							<a class="link-mask-link" href="project.php"></a>
-							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.php">
-									<i class="fas fa-eye mr-2"></i>View Case Study
-								</a>
-							</div>
-						</div><!--//link-mask-->
-					</div><!--//card-->
-				</div><!--//col-->
-				<div class="col-md-6 mb-5">
-					<div class="card project-card">
-						<div class="row no-gutters">
-							<div class="col-lg-4 card-img-holder">
-								<img src="assets/images/project/project-2.jpg" class="card-img" alt="image">
-							</div>
-							<div class="col-lg-8">
-								<div class="card-body">
-									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
-									<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
-									<p class="card-text"><small class="text-muted">Client: Dropbox</small></p>
-								</div>
-							</div>
-						</div>
-						<div class="link-mask">
-							<a class="link-mask-link" href="project.php"></a>
-							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.php">
-									<i class="fas fa-eye mr-2"></i>View Case Study
-								</a>
-							</div>
-						</div><!--//link-mask-->
-					</div><!--//card-->
-				</div><!--//col-->
-				<div class="col-md-6 mb-5">
-					<div class="card project-card">
-						<div class="row no-gutters">
-							<div class="col-lg-4 card-img-holder">
-								<img src="assets/images/project/project-3.jpg" class="card-img" alt="image">
-							</div>
-							<div class="col-lg-8">
-								<div class="card-body">
-									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
-									<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
-									<p class="card-text"><small class="text-muted">Client: Google</small></p>
-								</div>
-							</div>
-						</div>
-						<div class="link-mask">
-							<a class="link-mask-link" href="project.php"></a>
-							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.php">
-									<i class="fas fa-eye mr-2"></i>View Case Study
-								</a>
-							</div>
-						</div><!--//link-mask-->
-					</div><!--//card-->
-				</div><!--//col-->
-				<div class="col-md-6 mb-5">
-					<div class="card project-card">
-						<div class="row no-gutters">
-							<div class="col-lg-4 card-img-holder">
-								<img src="assets/images/project/project-4.jpg" class="card-img" alt="image">
-							</div>
-							<div class="col-lg-8">
-								<div class="card-body">
-									<h5 class="card-title"><a href="project.php" class="theme-link">Project Heading</a></h5>
-									<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
-									<p class="card-text"><small class="text-muted">Client: Uber</small></p>
-								</div>
-							</div>
-						</div>
-						<div class="link-mask">
-							<a class="link-mask-link" href="project.php"></a>
-							<div class="link-mask-text">
-								<a class="btn btn-secondary" href="project.php">
-									<i class="fas fa-eye mr-2"></i>View Case Study
-								</a>
-							</div>
-						</div><!--//link-mask-->
-					</div><!--//card-->
-				</div><!--//col-->
-			</div><!--//row-->
-			<div class="text-center py-3"><a href="portfolio.php" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>View Portfolio</a></div>
+			<?php include_once 'include/sections/featured.php' ?>
 
 		</div><!--//container-->
 	</section><!--//featured-section-->
@@ -440,76 +44,18 @@
 
 	<section class="latest-blog-section p-3 p-lg-5">
 		<div class="container">
-			<h2 class="section-title font-weight-bold mb-5">Latest Blog Posts</h2>
-			<div class="row">
-				<div class="col-md-4 mb-5">
-					<div class="card blog-post-card">
-						<img class="card-img-top" src="assets/images/blog/blog-post-thumb-card-1.jpg" alt="image">
-						<div class="card-body">
-							<h5 class="card-title"><a class="theme-link" href="blog-post.php">Top 3 JavaScript Frameworks</a></h5>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-							<p class="mb-0"><a class="more-link" href="blog-post.php">Read more &rarr;</a></p>
-
-						</div>
-						<div class="card-footer">
-							<small class="text-muted">Published 2 days ago</small>
-						</div>
-					</div><!--//card-->
-				</div><!--//col-->
-				<div class="col-md-4 mb-5">
-					<div class="card blog-post-card">
-						<img class="card-img-top" src="assets/images/blog/blog-post-thumb-card-2.jpg" alt="image">
-						<div class="card-body">
-							<h5 class="card-title"><a class="theme-link" href="blog-post.php">About Remote Working</a></h5>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-							<p class="mb-0"><a class="more-link" href="blog-post.php">Read more &rarr;</a></p>
-						</div>
-						<div class="card-footer">
-							<small class="text-muted">Published a week ago</small>
-
-						</div>
-					</div><!--//card-->
-				</div><!--//col-->
-				<div class="col-md-4 mb-5">
-					<div class="card blog-post-card">
-						<img class="card-img-top" src="assets/images/blog/blog-post-thumb-card-3.jpg" alt="image">
-						<div class="card-body">
-							<h5 class="card-title"><a class="theme-link" href="blog-post.php">A Guide to Becoming a Full-Stack Developer</a></h5>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-							<p class="mb-0"><a class="more-link" href="blog-post.php">Read more &rarr;</a></p>
-						</div>
-						<div class="card-footer">
-							<small class="text-muted">Published 3 weeks ago</small>
-						</div>
-					</div><!--//card-->
-				</div><!--//col-->
-			</div><!--//row-->
-			<div class="text-center py-3"><a href="blog-home.php" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>View Blog</a></div>
+			<?php include_once 'include/sections/latest_blog.php' ?>
 		</div><!--//container-->
 
 	</section><!--//latest-blog-section-->
 
 	<footer class="footer text-center py-4">
-		<small class="copyright">Template Copyright &copy; <a href="http://www.dasarathiswain.in/" target="_blank">Thinker Board</a></small>
+		<?php include_once 'include/footer.php' ?>
 	</footer>
 
 </div><!--//main-wrapper-->
 
-<!-- Javascript -->
-<script src="assets/plugins/jquery-3.4.1.min.js"></script>
-<script src="assets/plugins/popper.min.js"></script>
-<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-
-<script src="assets/plugins/tiny-slider/min/tiny-slider.js"></script>
-<script src="assets/js/testimonials.js"></script>
-
-
-<!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
-<script src="assets/js/demo/style-switcher.js"></script>
-
-<!-- Dark Mode -->
-<script src="assets/plugins/js-cookie.min.js"></script>
-<script src="assets/js/dark-mode.js"></script>
+<?php include_once 'include/html_footer.php' ?>
 
 </body>
 </html>
